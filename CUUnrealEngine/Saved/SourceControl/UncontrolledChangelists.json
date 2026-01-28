@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/100077523/Documents/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset",
+				"C:/Users/100077523/Documents/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset",
+				"C:/Users/100077523/Documents/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI.uasset",
+				"C:/Users/100077523/Documents/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset"
+			]
+		}
+	]
+}
