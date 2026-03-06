@@ -1,71 +1,16 @@
-2026/02/26-13:36:36.818 51f4 Reusing MANIFEST C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/26-13:36:36.829 51f4 Recovering log #74
-2026/02/26-13:36:36.842 51f4 Reusing old log C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000074.log 
-2026/02/26-15:36:36.328 54bc Level-0 table #78: started
-2026/02/26-15:36:36.340 54bc Level-0 table #78: 90510 bytes OK
-2026/02/26-15:36:36.344 54bc Delete type=0 #74
-2026/02/26-15:37:03.576 54bc Level-0 table #80: started
-2026/02/26-15:37:03.584 54bc Level-0 table #80: 81885 bytes OK
-2026/02/26-15:37:03.590 54bc Delete type=0 #77
-2026/02/26-15:37:03.592 54bc Compacting 4@0 + 1@1 files
-2026/02/26-15:37:03.602 54bc Generated table #81@0: 32 keys, 33490 bytes
-2026/02/26-15:37:03.604 54bc Compacted 4@0 + 1@1 files => 33490 bytes
-2026/02/26-15:37:03.606 54bc compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/26-15:37:03.608 54bc Delete type=2 #71
-2026/02/26-15:37:03.609 54bc Delete type=2 #73
-2026/02/26-15:37:03.609 54bc Delete type=2 #75
-2026/02/26-15:37:03.609 54bc Delete type=2 #78
-2026/02/26-15:37:03.609 54bc Delete type=2 #80
-2026/02/26-15:37:29.043 54bc Level-0 table #83: started
-2026/02/26-15:37:29.053 54bc Level-0 table #83: 81807 bytes OK
-2026/02/26-15:37:29.065 54bc Delete type=0 #79
-2026/02/26-15:38:25.315 54bc Level-0 table #85: started
-2026/02/26-15:38:25.324 54bc Level-0 table #85: 82483 bytes OK
-2026/02/26-15:38:25.344 54bc Delete type=0 #82
-2026/02/26-15:39:19.357 54bc Level-0 table #87: started
-2026/02/26-15:39:19.386 54bc Level-0 table #87: 82821 bytes OK
-2026/02/26-15:39:19.412 54bc Delete type=0 #84
-2026/02/26-17:24:19.911 54bc Level-0 table #89: started
-2026/02/26-17:24:19.915 54bc Level-0 table #89: 83149 bytes OK
-2026/02/26-17:24:19.922 54bc Delete type=0 #86
-2026/02/26-17:24:19.923 54bc Compacting 4@0 + 1@1 files
-2026/02/26-17:24:19.929 54bc Generated table #90@0: 32 keys, 33955 bytes
-2026/02/26-17:24:19.929 54bc Compacted 4@0 + 1@1 files => 33955 bytes
-2026/02/26-17:24:19.931 54bc compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/26-17:24:19.934 54bc Delete type=2 #81
-2026/02/26-17:24:19.934 54bc Delete type=2 #83
-2026/02/26-17:24:19.934 54bc Delete type=2 #85
-2026/02/26-17:24:19.935 54bc Delete type=2 #87
-2026/02/26-17:24:19.935 54bc Delete type=2 #89
-2026/02/26-17:25:19.410 54bc Level-0 table #92: started
-2026/02/26-17:25:19.417 54bc Level-0 table #92: 82909 bytes OK
-2026/02/26-17:25:19.427 54bc Delete type=0 #88
-2026/02/26-17:25:38.395 54bc Level-0 table #94: started
-2026/02/26-17:25:38.401 54bc Level-0 table #94: 82290 bytes OK
-2026/02/26-17:25:38.406 54bc Delete type=0 #91
-2026/02/26-17:25:54.077 54bc Level-0 table #96: started
-2026/02/26-17:25:54.084 54bc Level-0 table #96: 78065 bytes OK
-2026/02/26-17:25:54.090 54bc Delete type=0 #93
-2026/02/26-17:26:10.063 54bc Level-0 table #98: started
-2026/02/26-17:26:10.070 54bc Level-0 table #98: 76255 bytes OK
-2026/02/26-17:26:10.074 54bc Delete type=0 #95
-2026/02/26-17:26:10.075 54bc Compacting 4@0 + 1@1 files
-2026/02/26-17:26:10.085 54bc Generated table #99@0: 32 keys, 31787 bytes
-2026/02/26-17:26:10.085 54bc Compacted 4@0 + 1@1 files => 31787 bytes
-2026/02/26-17:26:10.086 54bc compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/26-17:26:10.088 54bc Delete type=2 #90
-2026/02/26-17:26:10.088 54bc Delete type=2 #92
-2026/02/26-17:26:10.088 54bc Delete type=2 #94
-2026/02/26-17:26:10.088 54bc Delete type=2 #96
-2026/02/26-17:26:10.089 54bc Delete type=2 #98
-2026/02/26-17:26:26.071 54bc Level-0 table #101: started
-2026/02/26-17:26:26.079 54bc Level-0 table #101: 71417 bytes OK
-2026/02/26-17:26:26.082 54bc Delete type=0 #97
-2026/02/26-17:28:04.646 54bc Level-0 table #103: started
-2026/02/26-17:28:04.658 54bc Level-0 table #103: 70817 bytes OK
-2026/02/26-17:28:04.663 54bc Delete type=0 #100
-2026/02/26-17:29:55.141 54bc Level-0 table #105: started
-2026/02/26-17:29:55.148 54bc Level-0 table #105: 71501 bytes OK
-2026/02/26-17:29:55.152 54bc Delete type=0 #102
-2026/02/26-17:33:18.313 54bc Level-0 table #107: started
-2026/02/26-17:33:18.337 54bc Level-0 table #107: 71901 bytes OK
+2026/03/05-17:32:26.903 4abc Reusing MANIFEST C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/05-17:32:26.916 4abc Recovering log #104
+2026/03/05-17:32:26.917 4abc Level-0 table #107: started
+2026/03/05-17:32:26.935 4abc Level-0 table #107: 71901 bytes OK
+2026/03/05-17:32:26.936 4abc Recovering log #106
+2026/03/05-17:32:26.950 4abc Reusing old log C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000106.log 
+2026/03/05-17:32:26.955 4abc Delete type=0 #104
+2026/03/05-17:32:26.957 3168 Compacting 4@0 + 1@1 files
+2026/03/05-17:32:26.987 3168 Generated table #108@0: 32 keys, 30239 bytes
+2026/03/05-17:32:26.987 3168 Compacted 4@0 + 1@1 files => 30239 bytes
+2026/03/05-17:32:26.989 3168 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/05-17:32:26.992 3168 Delete type=2 #99
+2026/03/05-17:32:26.992 3168 Delete type=2 #101
+2026/03/05-17:32:26.992 3168 Delete type=2 #103
+2026/03/05-17:32:26.992 3168 Delete type=2 #105
+2026/03/05-17:32:26.992 3168 Delete type=2 #107

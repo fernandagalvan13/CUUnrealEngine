@@ -1,0 +1,33 @@
+[13752:2748:0226/133636.184:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13752:2748:0226/133636.356:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13752:15624:0226/133636.437:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[13752:3380:0226/133639.969:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13752:3380:0226/133639.978:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13752:3380:0226/133639.982:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13752:3380:0226/133639.987:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13752:15544:0226/133642.994:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19316:25980:0226/133643.301:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-482B37DBBCFAE16B4BC0814F7F1A34A3 will be ignored
+[13752:13896:0226/133643.969:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13752:13896:0226/133643.975:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19648:24628:0226/133645.636:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-98ED47434F019BF0E7A57BEE385859FA will be ignored
+[20120:2156:0226/133645.646:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20120:2156:0226/133645.978:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[20120:2156:0226/133700.293:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20120:2156:0226/133710.829:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28668:19036:0226/153630.740:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-5F770FE391391334C0FA19B260D8ECDE will be ignored
+[25404:28140:0226/153715.922:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[25404:29232:0226/153716.240:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[25404:29232:0226/153717.312:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[25404:13224:0226/153717.355:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[11088:25840:0226/172753.022:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame E-D041CB5D3240EF5590A60F83CF4D780C will be ignored
+[13752:2748:0226/173318.561:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
