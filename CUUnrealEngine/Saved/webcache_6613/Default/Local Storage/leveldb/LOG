@@ -1,16 +1,9 @@
-2026/03/05-17:32:26.903 4abc Reusing MANIFEST C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/05-17:32:26.916 4abc Recovering log #104
-2026/03/05-17:32:26.917 4abc Level-0 table #107: started
-2026/03/05-17:32:26.935 4abc Level-0 table #107: 71901 bytes OK
-2026/03/05-17:32:26.936 4abc Recovering log #106
-2026/03/05-17:32:26.950 4abc Reusing old log C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000106.log 
-2026/03/05-17:32:26.955 4abc Delete type=0 #104
-2026/03/05-17:32:26.957 3168 Compacting 4@0 + 1@1 files
-2026/03/05-17:32:26.987 3168 Generated table #108@0: 32 keys, 30239 bytes
-2026/03/05-17:32:26.987 3168 Compacted 4@0 + 1@1 files => 30239 bytes
-2026/03/05-17:32:26.989 3168 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/05-17:32:26.992 3168 Delete type=2 #99
-2026/03/05-17:32:26.992 3168 Delete type=2 #101
-2026/03/05-17:32:26.992 3168 Delete type=2 #103
-2026/03/05-17:32:26.992 3168 Delete type=2 #105
-2026/03/05-17:32:26.992 3168 Delete type=2 #107
+2026/03/08-12:46:37.358 fd8 Reusing MANIFEST C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/08-12:46:37.374 fd8 Recovering log #106
+2026/03/08-12:46:37.395 fd8 Reusing old log C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000106.log 
+2026/03/08-12:51:15.207 32ec Level-0 table #111: started
+2026/03/08-12:51:15.227 32ec Level-0 table #111: 81549 bytes OK
+2026/03/08-12:51:15.262 32ec Delete type=0 #106
+2026/03/08-12:54:21.379 32ec Level-0 table #113: started
+2026/03/08-12:54:21.392 32ec Level-0 table #113: 73193 bytes OK
+2026/03/08-12:54:21.398 32ec Delete type=0 #110
