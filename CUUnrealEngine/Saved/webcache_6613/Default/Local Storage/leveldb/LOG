@@ -1,3 +1,17 @@
-2026/04/09-22:45:17.337 2f0c Reusing MANIFEST C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/09-22:45:17.346 2f0c Recovering log #119
-2026/04/09-22:45:17.352 2f0c Reusing old log C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000119.log 
+2026/04/11-18:21:59.576 131c Reusing MANIFEST C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/11-18:21:59.588 131c Recovering log #251
+2026/04/11-18:21:59.588 131c Level-0 table #254: started
+2026/04/11-18:21:59.600 131c Level-0 table #254: 65151 bytes OK
+2026/04/11-18:21:59.606 131c Delete type=0 #251
+2026/04/11-22:08:34.329 28a0 Level-0 table #257: started
+2026/04/11-22:08:34.336 28a0 Level-0 table #257: 72205 bytes OK
+2026/04/11-22:08:34.339 28a0 Delete type=0 #255
+2026/04/11-22:08:34.340 28a0 Compacting 4@0 + 1@1 files
+2026/04/11-22:08:34.348 28a0 Generated table #258@0: 32 keys, 43285 bytes
+2026/04/11-22:08:34.348 28a0 Compacted 4@0 + 1@1 files => 43285 bytes
+2026/04/11-22:08:34.350 28a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/11-22:08:34.352 28a0 Delete type=2 #248
+2026/04/11-22:08:34.352 28a0 Delete type=2 #250
+2026/04/11-22:08:34.352 28a0 Delete type=2 #252
+2026/04/11-22:08:34.352 28a0 Delete type=2 #254
+2026/04/11-22:08:34.352 28a0 Delete type=2 #257

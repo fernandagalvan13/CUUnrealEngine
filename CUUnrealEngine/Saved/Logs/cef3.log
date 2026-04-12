@@ -1,17 +1,31 @@
-[16540:25464:0409/224516.953:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16540:20180:0409/224517.088:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[16540:25464:0409/224517.131:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[16540:21088:0409/224520.644:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16540:21088:0409/224520.649:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16540:21088:0409/224520.653:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16540:21088:0409/224520.655:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16540:25280:0409/224521.389:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16540:25280:0409/224521.393:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17744:1712:0409/224521.807:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0FAFF995ECC9D8C397BCE7195430C298 will be ignored
-[22724:4296:0409/224524.403:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[22724:4296:0409/224524.437:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[16540:26080:0409/224524.509:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[16540:23144:0409/224525.726:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22724:4296:0409/224534.841:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[22724:4296:0409/224544.553:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[16540:25464:0409/234347.449:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[24656:3324:0411/182159.235:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24656:20680:0411/182159.324:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24656:3324:0411/182159.361:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24656:19284:0411/182203.229:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24656:19284:0411/182203.251:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24656:19284:0411/182203.265:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24656:19284:0411/182203.269:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24656:15788:0411/182204.045:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24656:15788:0411/182204.049:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[23824:20748:0411/182204.831:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F4AE56F4EB4DE2AC7C9E7BA9BE53CDFE will be ignored
+[24656:9184:0411/182205.549:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13868:26564:0411/182206.518:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-4B01E58A72353B843DA04A98C9F3C1C2 will be ignored
+[22068:8164:0411/182207.107:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22068:8164:0411/182207.132:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24656:15516:0411/182207.214:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22068:8164:0411/182221.630:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[22068:8164:0411/182236.217:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24656:15516:0411/200217.611:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[24656:15516:0411/214326.492:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[24656:3324:0411/214327.980:ERROR:device_event_log_impl.cc(196)] [21:43:27.809] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[22068:8164:0411/214337.366:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22068:8164:0411/214337.984:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[22068:8164:0411/214348.320:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[22068:8164:0411/214356.989:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24656:15516:0411/220128.229:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[24656:15516:0411/220754.508:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22068:8164:0411/220806.173:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22068:8164:0411/220806.858:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22068:8164:0411/220819.591:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22068:8164:0411/220833.206:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24656:3324:0411/222231.266:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
