@@ -1,3 +1,6 @@
-2026/04/21-17:04:24.121 319c Reusing MANIFEST C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/21-17:04:24.132 319c Recovering log #267
-2026/04/21-17:04:24.137 319c Reusing old log C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000267.log 
+2026/04/21-20:29:30.997 4fa0 Reusing MANIFEST C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/21-20:29:31.006 4fa0 Recovering log #267
+2026/04/21-20:29:31.017 4fa0 Reusing old log C:\Users\ferna\Documents\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000267.log 
+2026/04/21-23:30:31.115 596c Level-0 table #271: started
+2026/04/21-23:30:31.137 596c Level-0 table #271: 63732 bytes OK
+2026/04/21-23:30:31.140 596c Delete type=0 #267
